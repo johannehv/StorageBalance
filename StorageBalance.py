@@ -6,3 +6,4 @@ Created on Mon Jun  6 10:47:37 2022
 """
 
 hei oscar
+Goddav Johanne
