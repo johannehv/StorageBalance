@@ -9,3 +9,5 @@ hei oscar
 Goddav Johanne
 
 Hvordan går det?
+
+dette er lort
